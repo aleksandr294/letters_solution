@@ -1,0 +1,9 @@
+word
+apple
+space
+matrix
+game
+university
+dog
+cat
+cube
